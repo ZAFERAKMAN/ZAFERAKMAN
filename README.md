@@ -15,8 +15,7 @@ I'm a student at Ostim Technical University.<br>I've worked on HTML, CSS, JS.<br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZAFERAKMAN&icon=6&color=8)](https://visitcount.itsvg.in)
